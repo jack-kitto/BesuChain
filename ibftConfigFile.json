@@ -1,7 +1,7 @@
 {
  "genesis": {
    "config": {
-      "chainId": 1337,
+      "chainId": 12345,
      "londonBlock": 0,
       "ibft2": {
         "blockperiodseconds": 2,
@@ -36,7 +36,7 @@
  "blockchain": {
    "nodes": {
      "generate": true,
-       "count": 7
+       "count": 4
    }
  }
 }
